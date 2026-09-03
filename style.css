@@ -24,8 +24,6 @@ body {
 }
 
 .nav-head {
-    border: 5px solid black;
-    border-radius: 21px;
     width: 70vw;
     height: 7vh;
     margin: 25px auto;
@@ -56,7 +54,6 @@ body {
 }
 
 .main-body {
-    border: 4px solid black;
     width: 80vw;
     height: 70vh;
     margin: 0px auto;
